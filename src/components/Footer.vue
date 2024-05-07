@@ -10,7 +10,7 @@ export default {
   <Divider/>
   <footer>
     <div class="text-center card">
-      Footer
+      My footer aaa
     </div>
   </footer>
 </template>
